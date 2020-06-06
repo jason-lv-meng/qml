@@ -6,4 +6,16 @@ Window {
     width: 640
     height: 480
     title: qsTr("Hello World")
+    Column{
+        TextFieldC
+        {
+            placeholderText: "请输入你要的文字"
+
+        }
+        TextFieldC
+        {
+            placeholderText: "请输入你要的文字11"
+
+        }
+    }
 }
