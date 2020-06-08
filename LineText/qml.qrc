@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LineText.qml</file>
+        <file>ToolTipC.qml</file>
+    </qresource>
+</RCC>
