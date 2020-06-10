@@ -52,7 +52,7 @@ ToolTip {
         height: tooltipText.implicitHeight
         Text {
             id: tooltipText
-            font.pixelSize: appUtils.autoF(14)
+            font.pixelSize: 14
             color: "#4A4D5B"
             bottomPadding: 2
             topPadding: 2
