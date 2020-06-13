@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CheckBoxC.qml</file>
+        <file>ImageItem.qml</file>
+        <file>ToolTipC.qml</file>
+        <file>TableViewC.qml</file>
+    </qresource>
+</RCC>
