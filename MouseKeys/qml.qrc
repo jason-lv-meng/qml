@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>Loader_test.qml</file>
+        <file>CRectangle.qml</file>
     </qresource>
 </RCC>

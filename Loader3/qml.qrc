@@ -1,6 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>Loader_test.qml</file>
+        <file>Dynamic_component.qml</file>
+        <file>ColorPicker.qml</file>
     </qresource>
 </RCC>

@@ -7,13 +7,7 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
-
-    Loader_test{
-
+    Loader_component_file{
         anchors.fill: parent
     }
-
-
-
-
 }

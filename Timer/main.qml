@@ -7,13 +7,8 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
+    CountDown
+    {
 
-    Loader_test{
-
-        anchors.fill: parent
     }
-
-
-
-
 }

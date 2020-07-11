@@ -7,13 +7,7 @@ Window {
     height: 480
     title: qsTr("Hello World")
 
+    PinchRectangle{
 
-    Loader_test{
-
-        anchors.fill: parent
     }
-
-
-
-
 }
